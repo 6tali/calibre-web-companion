@@ -1,5 +1,5 @@
 {
-  "tag": "wl",
+  "version": 5,
   "rules": [
     {
       "domain_suffix": [
