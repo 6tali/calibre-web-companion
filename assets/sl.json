@@ -1,0 +1,24 @@
+{
+  "tag": "sl",
+  "rules": [
+    {
+      "domain_suffix": [
+        "ipme.co",
+        "google.com",
+        "accounts.google.com",
+        "aistudio.google.com",
+        "generativelanguage.googleapis.com",
+        "alkalimining-pa.googleapis.com",
+        "proactivebackend-pa.googleapis.com",
+        "gemini.google",
+        "gemini.google.com",
+        "kufar.by",
+        "plugins.jetbrains.com",
+        "marketplace.jetbrains.com",
+        "qwant.com",
+        "google-analytics.com",
+        "doubleclick.net"
+      ]
+    }
+  ]
+}
