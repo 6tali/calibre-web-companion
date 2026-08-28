@@ -92,7 +92,11 @@
         "yandex.ru",
         "imgur.com",
         "apple.com",
-        "virtualbox.org"
+        "virtualbox.org",
+        "reverso.net",
+        "askubuntu.com",
+        "ghcr.io",
+        "stackoverflow.com"
       ]
     }
   ]
