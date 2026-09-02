@@ -80,8 +80,6 @@
         "chimbori.com",
         "cloudflare-dns.com",
         "hcaptcha.com",
-        "unrealengine.com",
-        "epicgames.com",
         "gog.com",
         "gog-statics.com",
         "recaptcha.net",
@@ -99,7 +97,20 @@
         "stackoverflow.com",
         "ozon.ru",
         "ozone.ru",
-        "geobasket.ru"
+        "geobasket.ru",
+        "ubisoft.com",
+        "ubi.com",
+        "gimp.org",
+        "kde.org",
+        "thunderbird.net",
+        "fastly.net",
+        "visualstudio.com",
+        "vscode-cdn.net",
+        "sectigo.com",
+        "qwant.com",
+        "codepen.io",
+        "w3schools.com",
+        "baeldung.com"
       ]
     }
   ]
