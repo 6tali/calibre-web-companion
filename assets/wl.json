@@ -107,10 +107,14 @@
         "visualstudio.com",
         "vscode-cdn.net",
         "sectigo.com",
-        "qwant.com",
         "codepen.io",
         "w3schools.com",
-        "baeldung.com"
+        "baeldung.com",
+        "nuget.org",
+        "reverso.net",
+        "deepl.com",
+        "dev.to",
+        "stackexchange.com"
       ]
     }
   ]
