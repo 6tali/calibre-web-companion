@@ -114,7 +114,12 @@
         "stackexchange.com",
         "torrentio.strem.fun",
         "strem.fun",
-        "aws.amazon.com"
+        "aws.amazon.com",
+        "pki.goog",
+        "who.is",
+        "quora.com",
+        "mozilla.net",
+        "sourceforge.net"
       ]
     }
   ]
